@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78542024958",
+    "project_id": "gig-task-manager-8dc4c",
+    "storage_bucket": "gig-task-manager-8dc4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78542024958:android:e0542d2d91f712e08e35af",
+        "android_client_info": {
+          "package_name": "com.example.gig_task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7eDuEdXMY18E-ETvNsS689Xj50zD3jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
